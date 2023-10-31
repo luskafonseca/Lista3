@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\bin\Debug\net6.0\ControleJogos.exe
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\bin\Debug\net6.0\ControleJogos.deps.json
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\bin\Debug\net6.0\ControleJogos.runtimeconfig.json
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\bin\Debug\net6.0\ControleJogos.dll
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\bin\Debug\net6.0\ControleJogos.pdb
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ControleJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ControleJogos.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ControleJogos.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ControleJogos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ControleJogos.dll
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\refint\ControleJogos.dll
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ControleJogos.pdb
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ControleJogos.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ControleJogos\ControleJogos\obj\Debug\net6.0\ref\ControleJogos.dll

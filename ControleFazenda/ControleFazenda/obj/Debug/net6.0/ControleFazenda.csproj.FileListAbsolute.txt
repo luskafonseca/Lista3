@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\bin\Debug\net6.0\ControleFazenda.exe
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\bin\Debug\net6.0\ControleFazenda.deps.json
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\bin\Debug\net6.0\ControleFazenda.runtimeconfig.json
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\bin\Debug\net6.0\ControleFazenda.dll
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\bin\Debug\net6.0\ControleFazenda.pdb
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ControleFazenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ControleFazenda.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ControleFazenda.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ControleFazenda.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ControleFazenda.dll
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\refint\ControleFazenda.dll
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ControleFazenda.pdb
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ControleFazenda.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ControleFazenda\ControleFazenda\obj\Debug\net6.0\ref\ControleFazenda.dll
